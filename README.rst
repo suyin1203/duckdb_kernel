@@ -32,6 +32,7 @@ Development
 Install the package locally::
 
     $ pip install -e .
+    
     $ python -m duckdb_kernel install
 
 As you make changes, test them in a notebook (restart the kernel between changes).
