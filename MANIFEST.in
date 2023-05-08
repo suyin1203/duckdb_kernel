@@ -1,0 +1,4 @@
+include versioneer.py
+include duckdb_kernel/_version.py
+include duckdb_kernel/kernel_template.json
+recursive-include duckdb_kernel *.png
